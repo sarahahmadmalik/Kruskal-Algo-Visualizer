@@ -77,6 +77,6 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Push your branch to your fork and create a pull request to the `main` branch of this repository.
 
 ## Contact
-You can contact me via email [Your Name](mailto:sarahahmadmalik55@gmail.com) or linkedIn [Your Name](https://www.linkedin.com/in/sara-ahmad-malik-793429257/) 
+You can contact me via email [sarahahmadmalik55@gmail.com](mailto:sarahahmadmalik55@gmail.com) or linkedIn [www.linkedin.com/in/sara-ahmad-malik-793429257/](https://www.linkedin.com/in/sara-ahmad-malik-793429257/) 
 
  
