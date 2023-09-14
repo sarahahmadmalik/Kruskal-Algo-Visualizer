@@ -1,0 +1,30 @@
+# Compiled Java classes
+*.class
+
+# NetBeans project files
+nbproject/
+build/
+dist/
+
+# Generated files and directories
+target/
+out/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Log files or temporary files
+*.log
+*.tmp
+
+# Dependency directories (example for Maven)
+/lib/
+/target/
+
+# Configuration files with sensitive data (if any)
+application.properties
